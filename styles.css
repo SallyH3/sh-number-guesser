@@ -1,0 +1,165 @@
+* {
+font-family: Open Sans, sans-serif;
+}
+
+/*header title*/
+
+.header-title-left {
+  color: #DD1972;
+  display: inline;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.header-title-right {
+  font-weight: lighter;
+  display: inline;
+  color: #DD1972;
+  font-size: 60px;
+}
+
+hr {
+  margin: 30px;
+}
+
+.wrapper header {
+  margin: 10px;
+ margin-top: 95px;
+ margin-bottom: 30px;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.guess-field {
+  height: 50px;
+  width: 500px;
+  margin-bottom: 12px;
+  border-color: #6E6E6E;
+}
+
+#user-min-range-input, 
+#user-max-range-input {
+  width: 120px;
+  height: 30px;
+  margin: 2px;
+}
+
+.min-range-text {
+  display: inline;
+  font-weight: bold;
+}
+
+.max-range-text {
+  display: inline;
+  font-weight: bold;
+}
+
+.min-entry-current-range, .max-entry-current-range {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.flex-section-left {
+  background-color: #F7F7F7;
+  display: flex;
+  flex-direction: column;
+}
+
+.left-side-column {
+  background-color: #F7F7F7;
+}
+
+.flex-section-right {
+  background-color: #404041;
+  display: flex;
+}
+
+.right-side-column {
+  background-color: #404041;
+  height: 100%;
+}
+
+.guess-text {
+  font-weight: bold;
+}
+
+/*buttons*/
+
+.update-button {
+  background-color: #6E6E6E;
+  color: #FFFFFF;
+  display: inline;
+  font-weight: bold;
+  font-size: 13px;
+  margin: auto 10px;
+  width: 100px;
+  height: 30px;
+  border-radius: 100px;
+}
+
+.submit-button {
+  background-color: #6E6E6E;
+  color: #FFFFFF;
+  display: block;
+  font-weight: bold;
+  font-size: 16px;
+  width: 480px;
+  height: 40px;
+  margin: 10px;
+  border-radius: 100px;
+}
+
+.clear-button {
+  background-color: #6E6E6E;
+  color: #FFFFFF;
+  display: inline;
+  font-size: 14px;
+  font-weight: bold;
+  width: 225px;
+  height: 30px;
+  margin: auto 10px;
+  border-radius: 100px;
+}
+
+.reset-button {
+  background-color: #6E6E6E;
+  color: #FFFFFF;
+  display: inline;
+  font-weight: bold;
+  font-size: 14px;
+  width: 225px;
+  height: 30px;
+  margin: auto 10px;
+  border-radius: 100px;
+}
+
+.clear-button:disabled, 
+.reset-button:disabled {
+  background-color: #D0D2D3;
+}
+
+.you-guessed-text {
+  color: #FFFFFF;
+  font-size: 60px;
+  font-weight: lighter;
+  margin-top: 75px;
+  padding: 30px;
+  text-align: center;
+}
+
+.number-displayed {
+  color: #F74D9B;
+  font-weight: bold;
+  font-size: 150px;
+  text-align: center;
+}
+
+.feedback-text {
+  color: #FFFFFF;
+  padding: 50px;
+  font-size: 60px;
+  font-weight: lighter;
+  text-align: center;
+}

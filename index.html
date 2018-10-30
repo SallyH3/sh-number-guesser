@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="./styles.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous">
+    <title>Number Guesser Week One</title>
+  </head>
+
+  <body>
+    <div class = "wrapper">
+      <section class="flex-section-left">
+        <header>
+          <p class="header-title-left">NUMBER</p>
+          <p class="header-title-right">GUESSER</p>
+        </header>
+        <section class="left-side-column">
+          <p class="min-range-text">Min Range</p>
+          <input type="number" id="user-min-range-input">
+          
+          <p class="max-range-text">Max Range</p>
+          <input type="number" id="user-max-range-input">
+
+          <button class="update-button">UPDATE</button>
+          <p class = "min-error-message"></p>
+          <p class = "max-error-message"></p>
+          <hr>
+          <p class = "current-range-text">
+            The current range is 
+    <span class="min-entry-current-range">1</span> to 
+    <span class="max-entry-current-range">100</span></p>
+          <p class="guess-text">Guess</p>
+          <input class="guess-field" type="number" id="guess-field">
+          <button class="submit-button">SUBMIT GUESS</button>
+          <button class="clear-button" disabled>CLEAR</button>
+          <button class="reset-button" disabled>RESET</button>
+        </section>
+      </section>
+      <section class="flex-section-right">
+        <section class = "right-side-column">
+          <article class="you-guessed-text">You Guessed:</article>
+          <article class="number-displayed">--</article>
+          <article class="feedback-text">-----------------------------</article>
+        </section>
+      </section>
+  
+    </div>
+  </body>
+  <script type="text/javascript" src="main.js"></script>
+</html>
