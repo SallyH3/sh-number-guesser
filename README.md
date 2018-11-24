@@ -10,8 +10,6 @@ My project:
 <img width="1245" alt="screen shot 2018-11-24 at 2 24 44 pm" src="https://user-images.githubusercontent.com/40863560/48973084-bd318d00-eff4-11e8-8f63-965626c189e5.png">
 
 
-<img width="1207" alt="screen shot 2018-11-24 at 2 30 16 pm" src="https://user-images.githubusercontent.com/40863560/48973119-814af780-eff5-11e8-841e-761583a80e3b.png">
-
 
 
 
