@@ -2,6 +2,8 @@ I created the Number Guesser Doubles game at Turing as a solo project (was origi
 
 Project spec:
 
+<img width="731" alt="screen shot 2018-11-24 at 2 24 08 pm" src="https://user-images.githubusercontent.com/40863560/48973091-e2260000-eff4-11e8-8e23-4c7505c9fc47.png">
+
 
 My project:
 
