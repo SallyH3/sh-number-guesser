@@ -9,6 +9,8 @@ My project:
 
 <img width="1245" alt="screen shot 2018-11-24 at 2 24 44 pm" src="https://user-images.githubusercontent.com/40863560/48973084-bd318d00-eff4-11e8-8f63-965626c189e5.png">
 
+<img width="1205" alt="screen shot 2018-11-24 at 2 31 39 pm" src="https://user-images.githubusercontent.com/40863560/48973127-b6574a00-eff5-11e8-8663-11a063cd262c.png">
+
 
 
 
